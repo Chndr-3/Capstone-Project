@@ -1,6 +1,6 @@
 # Capstone Project
 
-This is the repository of C22-PS098
+This is the repository of C22-PS098 Teams
 
 ## Our team
 

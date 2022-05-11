@@ -2,6 +2,8 @@ Dataset Source :
 https://www.kaggle.com/datasets/dinartas/skin50
 https://www.kaggle.com/datasets/dinartas/skin90
 
+We mix this dataset into 1, and then shuffled them and splits them into training and testing with split size 90% for training and 10% for testing.
+For the detailed dataset, you can access them from this link:
 Drive files (splited files into training and testing):
 testing   : https://drive.google.com/drive/folders/17rRZ7VI0BvATdajUiXAEoWuFocBUL-rv?usp=sharing
 training  : https://drive.google.com/drive/folders/17qnkDydiTuImUrFJ7yTgZnluoyMc3aPZ?usp=sharing
